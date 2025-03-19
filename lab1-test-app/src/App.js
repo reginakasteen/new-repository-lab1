@@ -2,12 +2,10 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  console.log("Hello from local");
+  console.log("Conflict resolved");
 
   return (
     <div className="App">
-    console.log("Hello from remote");
-
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
